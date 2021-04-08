@@ -4,15 +4,25 @@
  * Hence, to prevent these issues, I thought of making a Student Record System to help in quickly accessing and updating the data of students at a single place making it time efficient.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+# THE STUDENT RECORD SYSTEM
+The student record system will help in managing students reports. It will help in saving time and effort. The information of the system will be handled in just one click.
+* Student Database Management
+The details of the students of the organisation can be stored in the database with the application.
+* Results
+The marksheet of the students can also be accesed and stored through this application.
+* Performance
+The performance of the students can be stored through this application.
+* One click access
+ It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records with just a click.
+
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+Cost and Features
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![image](https://user-images.githubusercontent.com/80762665/114082952-05069580-98cc-11eb-9ba8-6246f9012f64.png)
+
 
 # 4W&#39;s and 1&#39;H
 
