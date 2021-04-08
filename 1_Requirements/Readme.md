@@ -4,7 +4,7 @@
  * Hence, to prevent these issues, I thought of making a Student Record System to help in quickly accessing and updating the data of students at a single place making it time efficient.
 
 ## Research
-# THE STUDENT RECORD SYSTEM
+## THE STUDENT RECORD SYSTEM
 The student record system will help in managing students reports. It will help in saving time and effort. The information of the system will be handled in just one click.
 * Student Database Management
 The details of the students of the organisation can be stored in the database with the application.
