@@ -27,7 +27,8 @@ Simple functions have been to manipulate data structure and file handling, so he
 * Generate marksheet (also see: student report card system project in C++)
 * Delete student record
 * Change password
-The functions listed below have been used to produce background with color effects. They are described in the source code with comments.
+
+-- The functions listed below have been used to produce background with color effects. They are described in the source code with comments.
 
 void SetColor(int ForgC)
 void ClearConsoleToColors(int ForgC, int BackC)
