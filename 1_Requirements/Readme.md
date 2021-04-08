@@ -19,7 +19,20 @@ The performance of the students can be stored through this application.
 ![Description](Link to Pic)
 Cost and Features
 ## Defining Our System
-    -- TBD
+![image](https://user-images.githubusercontent.com/80762665/114088219-6d587580-98d2-11eb-8db6-29c8e7f64cbc.png)
+Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
+* Add student record
+* Search student record
+* Modify student record
+* Generate marksheet (also see: student report card system project in C++)
+* Delete student record
+* Change password
+The functions listed below have been used to produce background with color effects. They are described in the source code with comments.
+
+void SetColor(int ForgC)
+void ClearConsoleToColors(int ForgC, int BackC)
+void SetColorAndBackground(int ForgC, int BackC)
+
 ## SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/80762665/114082952-05069580-98cc-11eb-9ba8-6246f9012f64.png)
 
@@ -46,7 +59,6 @@ The student record—in form and content—is the product of an on-going series 
 * The student record does seem like the boundary object par excellence—providing the kind of basic structure to make complex organizational work possible while providing the flexibility to make local variation possible and subsequent renegotiation and re-codification all but inevitable. It is certainly in this spirit—renegotiation, re-imagination—that this convening was called. 
 * Here, a console window is virtually divided into 2 parts – one is static and it does not change, while the other is dynamic and it changes from time to time. 
 
-**TBD**
 
 # Detail requirements
 ## High Level Requirements:
