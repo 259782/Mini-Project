@@ -28,21 +28,23 @@ Cost and Features
 
 ## Who:
 
-**TBD**
+The students records will be maintained in the system. The faculties will maintain the records in the system.
 
 ## What:
 
-**TBD**
+It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records. In this project, mark-sheet for students can also be generated.
 
 ## When:
 
-**TBD**
+The student record—in form and content—is the product of an on-going series of compromises played out over many decades across multiple institutions, organizations, and locales. Therefore, to think about the student record is to think about a complex and overlapping jurisdictional space that students move through as they receive their education from a variety of different educational institutions, at a variety of attainment levels, in a variety of places. This space is governed by negotiations between and within these educational sectors, these sectors and the state, and these sectors and the students they serve—and the student record a permanent record of those treaties. Thus, to view the student record historically, is, in many respects, to view the compromises that helped give shape to the educational system, its institutions, its functions, its academic currencies, and its charges.
 
 ## Where:
-
-**TBD**
+* It is implemented across the world to maintain the student records. 
+* Given the student record’s location within the education system, it is only a slight exaggeration to say that a convening that seeks to re-imagine the student record also sets itself the task of re-imagining fundamental aspects of the education system: the definition of a student; the definition of educational achievement; the currency of achievement and the institutions that can issue it.
 
 ## How:
+* The student record does seem like the boundary object par excellence—providing the kind of basic structure to make complex organizational work possible while providing the flexibility to make local variation possible and subsequent renegotiation and re-codification all but inevitable. It is certainly in this spirit—renegotiation, re-imagination—that this convening was called. 
+* Here, a console window is virtually divided into 2 parts – one is static and it does not change, while the other is dynamic and it changes from time to time. 
 
 **TBD**
 
